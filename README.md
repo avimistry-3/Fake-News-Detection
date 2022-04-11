@@ -32,7 +32,7 @@ At the end of the program, you will be asked for an input which will be a piece 
 The output of the true or false news will be produced along with the probability.
 
 ## File Description
-The file mentioned in src folders are as follows:</br>
+The files mentioned in src folders are as follows:</br>
 ### DataPrep.py
 This file contains all of the procedures required to process all of the input documents and texts. We read the train, test, and validation data files first, then did some pre-processing such as tokenizing and stemming. Some exploratory data analysis is carried out, such as response variable distribution and data quality checks such as null or missing values, among other things.
 ### FeatureSelection.py
